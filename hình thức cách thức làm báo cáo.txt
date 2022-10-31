@@ -1,0 +1,16 @@
+-nội dung
+
++dựa vào kiến thức cơ bản
+
++gợi ý mô tả về chủ đề
+
++trình bày quan điểm về nhận xét đề xuất
+
+-hình thức
+
++trình bày ngắn gọn, rõ ràng, mạch lạc, không tẩy xóa, có đánh số trang, đánh số bảng biểu, hình vẽ, đồ thị theo mẫu tài liệu dự án đính kèm.
+
++Báo cáo phải đánh máy vi tính, sử dụng khổ giấy A4 (210 x 297) dùng cỡ chữ Times New Roman 14, dãn dòng 1,5 lines, lề trên 3,5 cm, lề dưới 3 cm; các trang được đánh số từ 1 đến hết ở bên phải và cuối trang.
+
+-tài liệu tham khảo
++làm theo dạng report template,ghi theo các ghi chushd trên tài liệu để hoàn thành sản phẩm
